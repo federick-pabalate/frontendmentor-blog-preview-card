@@ -126,3 +126,9 @@ In my future projects semantic HTML, and CSS custom properties are concepts I've
 
 - Frontend Mentor - [https://www.frontendmentor.io/profile/federick-pabalate](https://www.frontendmentor.io/profile/federick-pabalate)
 - Github - [https://github.com/federick-pabalate](https://github.com/federick-pabalate)
+
+## Acknowledgments
+
+I would like to thank the following:
+
+Thanks to [pmendezpe](https://www.frontendmentor.io/profile/pmendezpe) - I really appreciate the feedback. It helped me adopt the mobile-first methodology, and now my project is more responsive, scalable, and maintainable.
